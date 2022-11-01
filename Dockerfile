@@ -1,1 +1,1 @@
-FROM vesoft/nebula-graphd:v2.6.2
+FROM vesoft/nebula-storaged:v2.6.2
