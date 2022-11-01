@@ -1,0 +1,1 @@
+FROM vesoft/nebula-metad:v2.6.2
